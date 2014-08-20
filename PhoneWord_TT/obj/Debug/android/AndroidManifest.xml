@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="PhoneWord_TT.PhoneWord_TT" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <uses-sdk android:targetSdkVersion="19" android:minSdkVersion="15" />
+  <application android:label="PhoneWord_TT" android:icon="@drawable/icon" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:label="TranslateHistory" android:name="phoneword_tt.acitvity.TranslateHistoryActivity" />
+    <activity android:icon="@drawable/icon" android:label="PhoneWord_TT" android:name="phoneword_tt.MainActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="PhoneWord_TT.PhoneWord_TT.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.PhoneWord_TT.PhoneWord_TT" />
+      </intent-filter>
+    </receiver>
+    <activity android:icon="@drawable/icon" android:label="PhoneWord_TT" android:name="phoneword_tt.phoneword_tt.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+  <uses-permission android:name="android.permission.CALL_PHONE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

@@ -1,0 +1,15 @@
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\bin\Debug\PhoneWord_TT.dll
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\bin\Debug\PhoneWord_TT.pdb
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\bin\Debug\PhoneWord_TT.dll.mdb
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\bin\Debug\PhoneWord_TT.PhoneWord_TT.apk
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\bin\Debug\PhoneWord_TT.PhoneWord_TT-Signed.apk
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\obj\Debug\PhoneWord_TT.dll
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\obj\Debug\PhoneWord_TT.pdb
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\obj\Debug\android\bin\PhoneWord_TT.PhoneWord_TT.apk
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\obj\Debug\res\layout\translatehistory_layout.xml
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\obj\Debug\res\layout\main.xml
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\obj\Debug\res\values\strings.xml
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\obj\Debug\res\drawable\icon.png
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\obj\Debug\R.cs.flag
+c:\users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\obj\Debug\uploadflags.txt
+C:\Users\semi\documents\visual studio 2013\Projects\PhoneWord_TT\PhoneWord_TT\obj\Debug\res\layout\customrow.xml

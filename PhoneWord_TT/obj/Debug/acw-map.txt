@@ -1,0 +1,3 @@
+PhoneWord_TT.Acitvity.TranslateHistoryActivity;phoneword_tt.acitvity.TranslateHistoryActivity
+PhoneWord_TT.Adapter.HistoryAdapter;phoneword_tt.adapter.HistoryAdapter
+PhoneWord_TT.MainActivity;phoneword_tt.MainActivity
